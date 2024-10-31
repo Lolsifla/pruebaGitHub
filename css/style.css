@@ -1,5 +1,5 @@
 body{
-    background-color: #f560fad7;
+    background-color: #72ffbdd7;
 }
 .tamano{
     width: 700px;
@@ -7,7 +7,7 @@ body{
     border: 3px black solid;
 }
 .logo{
-    width: 60px;
+    width: 40px;
 }
 .color{
     background-color: rgb(94, 5, 64);
